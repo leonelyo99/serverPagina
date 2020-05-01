@@ -3,8 +3,8 @@ const path = require('path');
 const app = express();
 
 //obteniendo el puerto de la pagina
-// const port = process.env.PORT;
-const port = 3000;
+const port = process.env.PORT;
+// const port = 3000;
 
 app.use(express.static(__dirname + "/public"));
 

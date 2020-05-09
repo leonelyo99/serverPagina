@@ -1,10 +1,13 @@
-const express = require('express');
-const path = require('path');
+const express = require("express");
+const path = require("path");
 const app = express();
+const compresión = require("compresión");
 
 //obteniendo el puerto de la pagina
 const port = process.env.PORT;
 // const port = 3000;
+
+app.use(compresión());
 
 app.use(express.static(__dirname + "/public"));
 

@@ -1,6 +1,6 @@
 {
-  "name": "Leonel Mazzan App",
-  "short_name": "Leonel Mazzan App",
+  "name": "leonelMazzanApp",
+  "short_name": "leonelMazzanApp",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",

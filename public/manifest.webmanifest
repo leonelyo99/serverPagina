@@ -1,9 +1,9 @@
 {
-  "name": "leonelmazzanapp",
+  "name": "Leonel Mazzan App",
   "short_name": "Leonel Mazzan App",
   "theme_color": "#024056",
   "background_color": "#fafafa",
-  "display": "minimal-ui",
+  "display": "fullscreen",
   "scope": "./",
   "start_url": "./",
   "icons": [

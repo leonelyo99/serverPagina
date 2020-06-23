@@ -1,0 +1,102 @@
+{
+    "component" : {
+        "error": "En estos momentos estoy experimentando problemas, por favor intente nuevamente más tarde."
+    },
+    "menu":{
+        "conocimiento": {
+            "titulo":"Conocimientos",
+            "todos":"Todos",
+            "lenguajes":"Lenguajes",
+            "frameworks":"Frameworks",
+            "patrones":"Patrones",
+            "otros":"Otros"
+        },
+        "estudios": "Estudios",
+        "historia": "Historia",
+        "academy": "Academy",
+        "contacto": "Contacto",
+        "idioma":{
+            "titulo":"Idioma",
+            "Español":"Español",
+            "Ingles":"Ingles"
+        }
+    },
+    "conocimientos":{
+        "descripcion": "Soy Leonel Mazzan un programador Full Stack, más especializado en el stack de JavaScript. También con conocimientos del stack de PHP y de Python.",
+        "imagen":"español",
+        "frameworks": {
+            "titulo":"Mi historia con este framework",
+            "nivel":"Mi nivel de conocimientos",
+            "demo":"Una demo de mi trabajo",
+            "demoBoton":"Ver",
+            "cerrarBoton":"Cerrar",
+            "angular":"Mis inicios con este framework fueron hace ya 3 años desde que estudiaba programación frontend en la escuela de capacitación Newton. En este framework he trabajado en proyectos bastante grandes como el sistema de un hospital, luego trabaje en el desarrollo de un sistema de control de pedidos. Lo he utilizado para crear PWA con la implementación de service workers y ahora me encuentro utilizándolo en el desarrollo de 4 proyectos bancarios.",
+            "react":"Mis inicios con este framework son recientes aproximadamente 2 años. Lo he estudiado solo, con Hooks, con Hooks y Redux. Luego realice un sistema de control de turnos para una veterinaria y otros sistemas de prueba.",
+            "ionic":"Mis inicios con este framework fueron hace ya 3 años. Lo he estudiado en todas sus versiones . Realice una tienda para Android y otros sistemas de prueba.",
+            "reactNative":"Mis inicios con este framework son recientes. Realice un sistema de ranking de restaurantes para Android con expo, otros sistemas de prueba y he dado soporte en otros desarrollos.",
+            "node":"Mis inicios con este framework fueron hace ya 3 años. En este framework he desarrollado sockets.io y algunas api restful entre ellas una con autenticación por Google, Facebook e email también manejo perfiles y JWT.",
+            "flutter":"Mis inicios en este framework son relativamente recientes y todavía no he tenido el placer de desarrollar en esta tecnología, más de hacer proyectos de prueba.",
+            "laravel":"Mis inicios con este framework fueron hace ya 3 años. En este framework he desarrollado algunas api restful, una de ellas con autenticación por mail y manejo de tokens.",
+            "slim":"Mis inicios con este framework fueron hace ya 3 años cuando estudiaba desarrollo backend en la escuela de capacitación Newton. En este framework he desarrollado algunas api restful.",
+            "codeigniter":"Mis inicios con este framework fueron hace ya 3. He desarrollado algunas api restful.",
+            "django":"Mis inicios en este framework son relativamente recientes y he realizado un blog para una empresa, entre otros proyectos de prueba.",
+            "spring":"Mis inicios en este framework son relativamente recientes todavía no he tenido el placer de desarrollar en esta tecnología solo lo he usado para migrar el front a otras tecnologías como Angular.",
+            "jquery":"Mis inicios con este framework fueron hace ya 3 años desde que estudiaba programación frontend en la escuela de capacitación Newton.Lo he utilizado junto con bootstrap o para complementar otros frameworks como Angular, también lo he usado solo y he desarrollado el control de un estacionamiento enteramente con Jquery."
+        },
+        "lenguajes":{
+            "cerrarBoton":"Cerrar",
+            "nivel":"Mi nivel de conocimientos"
+        },
+        "patrones":{
+            "cerrarBoton":"Cerrar",
+            "titulo":"Mi historia con este patrón",
+            "modular":"Utilizado en Angular para que cada pagina sea un modulo independiente también implementando leazy load.",
+            "flux":"Utilizado en React prácticamente este patron fue creado para react.",
+            "redux":"Utilizado en React y en Angular para manejar los toast, espiners y datos que deben verse al mismo tiempo en todas las pantallas.",
+            "factory":"Utilizado en Angular en un caso que dependiendo del tipo de usuario se mostraba un tipo de sidebar u otro. También en modelos donde dependiendo del dato de entrada devolvía un modelo u otro.",
+            "observer":"Utilizado en Angular prácticamente Angular lo utiliza en todas sus llamadas al backend y también lo he utilizado para mostrar modales en varios sistemas.",
+            "singleton":"Utilizado en Node y en Flutter. Lo he usado mayormente para instanciar bases de datos u conexiones al backend.",
+            "prototype":"Utilizado en Angular para trabajar con los modelos de los usuarios con diferentes perfiles.",
+            "decorator":"Utilizado en Angular, Spring y en Laravel.",
+            "strategy":"Utilizado en Angular para cambiar el algoritmo de búsqueda de binaria a secuencial dependiendo si el array de documentos del backend venia ordenado o no."
+        },
+        "otros":{
+            "titulo":"Otros",
+            "cerrarBoton":"Cerrar",
+            "nivel":"Mi nivel de conocimientos en esta tecnología"
+        }
+    },
+    "estudios":{
+        "titulo":"MIS ESTUDIOS",
+        "secundario":"Técnico en electrónica con especialización en automatización y control industrial",
+        "programador":"Programador Full Stack",
+        "curso":"Curso",
+        "plataforma":"Plataforma",
+        "certification": "Certificación",
+        "botonVer":"Ver",
+        "escuelaNewton":"Escuela Newton",
+        "udemy": "Udemy",
+        "presencial":"presencial",
+        "otros":"Otros"
+    },
+    "historia":{
+        "titulo":"UN POCO DE MI HISTORIA",
+        "parrafo1":"Este es un pequeño resumen de mi historia y de como llegué a la programación. Todo comenzó en el 2006 cuando me regalaron mi primera computadora, entré en el mundo de la informática y cada vez que podía la desarmaba, limpiaba y molestaba a mis padres para comprarle componentes nuevos. Entre vídeojuegos y películas de ficción estuve varios años investigando que era la informática.",
+        "parrafo2":"Estudié en una escuela técnica especializada en electrónica, donde durante los primeros años vi lo que eran los circuitos eléctricos, cálculos para las corrientes, resistencias, etc. Allí descubrí otro mundo que me gustó mucho, era la lógica y la matemática que hacia funcionar el circuito.",
+        "parrafo3":"Más adelante nos enseñaron compuertas lógicas las cuales usábamos para hacer álgebra de boole donde combinando diferentes compuertas se podía hacer un algoritmo.",
+        "parrafo4":"En el año 2016 en quinto año aprendí visual basic para programar P.L.C (controlador lógico programable). En ese momento me di cuenta que camino quería seguir. No fue sino hasta que vimos Arduino, reafirme que era esto lo que me gustaba y a lo que me quería dedicar. Fue en ese momento cuando comencé a estudiar JavaScript por mi cuenta.",
+        "parrafo5":"Cuando me recibí de Técnico en Electrónica, me inscribí en la facultad, en la carrera ingeniería en sistemas. Pero después de un tiempo me di cuenta que no era lo que yo quería, hice medio año allí y todos los ejemplos de programación, estaban atrasados con respecto a lo que se usaba actualmente. También las materias donde se programaba, eran muy pocas y luego de hablar con gente que ya se había recibido me di cuenta que cuando me recibiera iba a tener que empezar a estudiar programación casi desde el principio.",
+        "parrafo6":"Un amigo me dijo que se podía ir a un curso de Programador Full Stack presencial y fue una de las mejores decisiones porque las personas que conocí ahí me aportaron muchísimo en mi desarrollo como programador, también gracias a este mismo amigo, desarrolle mi parte autodidacta para apalancar aún más mi aprendizaje y hasta el día de hoy sigo aprendiendo.",
+        "parrafo7":"En el medio del estudio iba haciendo trabajos para costear dichos cursos. Trabaje de freelance, para empresas de programación y agencias de marketing. Y podría seguir relatando trabajos y contando muchas anécdotas, pero estoy en un proyecto y tengo que seguir haciendo lo que más me gusta programar y crear."
+    },
+    "academy":{
+        "titulo":"CAPACITACIONES",
+        "subtitulo":"Brindo capacitaciones en las siguientes áreas.",
+        "masInformacion":"Mas información",
+        "botonContacto":"Contácteme"
+    },
+    "contacto":{
+        "titulo":"FORMAS",
+        "botonVisitar":"Visitar"
+    }
+}

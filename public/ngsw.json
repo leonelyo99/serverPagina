@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1592940680598,
+  "timestamp": 1593654316509,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -144,7 +144,7 @@
     "/assets/fontawesome/webfonts/fa-solid-900.ttf": "ff8f37dfad105796bd924d0db0d37a4ff252618c",
     "/assets/fontawesome/webfonts/fa-solid-900.woff": "15c52209092ce0fb7210e40e2a01acc8b4a5c494",
     "/assets/fontawesome/webfonts/fa-solid-900.woff2": "75a88815c47a249eadb5f0edc1675957f860cca7",
-    "/assets/i18n/en.json": "ddb168eb95d7eef60d9e798462a838a4581eab5a",
+    "/assets/i18n/en.json": "5ca930cf33c21866543e006bea54b47db5a9d8ae",
     "/assets/i18n/es.json": "ca27f5dc2574c16c1f8993831a55157475ba4c2a",
     "/assets/icons/icon-128x128.png": "1f53aa2e7c0834398d0cc3955b3410e9000506d6",
     "/assets/icons/icon-144x144.png": "35af4c33a82dafa63bc3ed43083846448404e3d2",

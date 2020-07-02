@@ -80,7 +80,7 @@
         "otros":"Others"
     },
     "historia":{
-        "titulo":"SOME OF MY STORY",
+        "titulo":"SOME OF MY HISTORY",
         "parrafo1":"This is a short summary of my history and how I got to programming. It all started in 2006 when my parents gave me my first computer, I entered the world of computing and when I could I took it apart, cleaned and bothered my parents to buy new components. Between video games and fictional films, I spent several years investigating what computer science was.",
         "parrafo2":"I studied in a technical school specialized in electronics, where during the first years I saw what were electrical circuits, calculations for currents, resistances, etc. There I discovered another world that I really liked, it was the logic and mathematics that made the circuit work.",
         "parrafo3":"Later we were taught logic gates which we used to do boolean algebra where combining different gates we could make an algorithm.",

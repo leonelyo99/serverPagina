@@ -4,10 +4,19 @@ const app = express();
 const compression = require('compression')
 
 //obteniendo el puerto de la pagina
-const port = process.env.PORT;
-// const port = 3000;
+// const port = process.env.PORT;
+const port = 3000;
 
 app.use(compression());
+
+app.get("/api", (req, res)=>{
+  return res.status(200).json({
+    ok: true,
+    message: {
+        message:'Todo cheto'
+    }
+});
+})
 
 app.use(express.static(__dirname + "/public"));
 

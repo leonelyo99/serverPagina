@@ -40,6 +40,7 @@
             "slim":"My beginnings with this framework were 3 years ago when I was studying backend development at Newton school. In this framework I have developed some restful api.",
             "codeigniter":"My beginnings with this framework were already 3. I have developed some restful api.",
             "django":"My beginnings in this framework are relatively recent and I have developed a blog for a company, between other test projects.",
+            "flask":"My beginnings in this framework are relatively recent, I have not had the pleasure of developing this technology yet.",
             "spring":"My beginnings in this framework are relatively recent, I have not had the pleasure of developing this technology yet, I have only used it to migrate the front to other technologies such as Angular.",
             "jquery":"My beginnings with this framework were 3 years ago since I studied frontend programming at Newton school, I have used it together with bootstrap or to complement other frameworks like Angular, I have also used it alone and I have developed a parking control."
         },

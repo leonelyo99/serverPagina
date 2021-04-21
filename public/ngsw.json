@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1618841202822,
+  "timestamp": 1619008913799,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -149,8 +149,8 @@
     "/assets/fontawesome/webfonts/fa-solid-900.ttf": "ff8f37dfad105796bd924d0db0d37a4ff252618c",
     "/assets/fontawesome/webfonts/fa-solid-900.woff": "15c52209092ce0fb7210e40e2a01acc8b4a5c494",
     "/assets/fontawesome/webfonts/fa-solid-900.woff2": "75a88815c47a249eadb5f0edc1675957f860cca7",
-    "/assets/i18n/en.json": "14bb8847786d8dd47811c688ea00397979112fc1",
-    "/assets/i18n/es.json": "f188db5bf5758dd4c6e39910a2007a81b50de989",
+    "/assets/i18n/en.json": "bb4dc742b8c5bf0be22615d7b0f309f0959ff946",
+    "/assets/i18n/es.json": "ae49aaf5f31106864a03a5d111cab775f6c23c3d",
     "/assets/icons/icon-128x128.png": "1f53aa2e7c0834398d0cc3955b3410e9000506d6",
     "/assets/icons/icon-144x144.png": "35af4c33a82dafa63bc3ed43083846448404e3d2",
     "/assets/icons/icon-152x152.png": "30e3ccfd5a8e97a3319e068b6a2329a8e75264bf",
@@ -159,7 +159,7 @@
     "/assets/icons/icon-512x512.png": "dcaa80a79530e76d39c9f09fa941290f2857c77c",
     "/assets/icons/icon-72x72.png": "776a6e78bd20a8265712df0587fcaebcd12203aa",
     "/assets/icons/icon-96x96.png": "a165fe8bb857a1e7afe2e192d0586ac8d0ab2a23",
-    "/assets/images/CV-Mazzan_Leonel.jpg": "6c4cc37a51ea297076185371b48595a9106c0dbf",
+    "/assets/images/CV-Mazzan_Leonel.jpg": "e09821434600d0db312204fe04e11d5a35e11697",
     "/assets/images/Ldarkblue.svg": "166a4e6de37fdcd18af51bf3dc168846f2afc09d",
     "/assets/images/Mdarkblue.svg": "706e151ecb41005d593505ae817961673466b7fb",
     "/assets/images/Sdarkblue.svg": "1e1de217c3c62c53145768a1e9ef3cf04c79e580",

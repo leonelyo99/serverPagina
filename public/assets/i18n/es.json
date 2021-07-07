@@ -22,7 +22,7 @@
         }
     },
     "conocimientos":{
-        "descripcion": "Soy Leonel Mazzan un programador Full Stack, más especializado en el stack de JavaScript. También con conocimientos del stack de PHP y de Python.",
+        "descripcion": "Soy Leonel Mazzan un programador Full Stack, especializado en Front End con el stack de JavaScript. También con conocimientos del stack de PHP y de Python.",
         "imagen":"español",
         "frameworks": {
             "titulo":"Mi historia con este framework",

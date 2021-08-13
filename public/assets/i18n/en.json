@@ -1,103 +1,119 @@
 {
-    "component" : {
-        "error": "I have problems, please try again later."
+  "component": {
+    "error": "I have problems, please try again later."
+  },
+  "menu": {
+    "conocimiento": {
+      "titulo": "Knowledges",
+      "todos": "All",
+      "lenguajes": "Languages",
+      "frameworks": "Frameworks",
+      "patrones": "Patterns",
+      "otros": "Others"
     },
-    "menu":{
-        "conocimiento": {
-            "titulo":"Knowledges",
-            "todos":"All",
-            "lenguajes":"Languages",
-            "frameworks":"Frameworks",
-            "patrones":"Patterns",
-            "otros":"Others"
-        },
-        "estudios": "Studies",
-        "historia": "History",
-        "academy": "Academy",
-        "contacto": "Contact",
-        "idioma":{
-            "titulo":"Idiom",
-            "Español":"Spanish",
-            "Ingles":"English"
-        }
-    },
-    "conocimientos":{
-        "descripcion": "Im Leonel Mazzan a Full Stack developer, specialized in Front End with the JavaScript stack.. Also with knowledge of the PHP and Python stack.",
-        "imagen":"ingles",
-        "frameworks": {
-            "titulo":"My history with this framework",
-            "nivel":"My level of knowledge",
-            "demo":"A demo of my work",
-            "demoBoton":"See",
-            "cerrarBoton":"Close",
-            "angular":"My beginnings with this framework were 4 years ago since I was studying frontend programming at the Newton training school. In this framework I have worked on quite large projects such as a hospital system, 6 banking projects, an order control system. I have used it to create PWA with implementation of service workers. I have performed tasks such as migrating between versions, compatibility, refactoring, design and create from scratch..",
-            "react":"My beginnings with this framework were 3 years ago. I have studied it from classes, classes with redux, to its most recent version with Hooks, with Hooks and Redux. I maked a shift control system for a veterinary and systems for prepaid and hospitals among other test systems and own projects.",
-            "ionic":"My beginnings with this framework were 4 years ago. I have studied it in all its versions. I maked a store for Android and other test systems.",
-            "reactNative":"My beginnings with this framework are recent, 2 years ago. I maked a restaurant ranking system for Android with expo, other test systems and I have supported other developments",
-            "node":"My beginnings with this framework were 4 years ago. In this framework I have developed sockets.io and some restful api including one with authentication by Google, Facebook and email, also manage profiles and JWT.",
-            "flutter":"My beginnings in this framework are relatively recent and I did not had the pleasure of developing this technology yet, more than doing test projects.",
-            "laravel":"My beginnings with this framework were 4 years ago. In this framework I have developed some restful api, one of them with email authentication and token management.",
-            "slim":"My beginnings with this framework were 4 years ago when I was studying backend development at Newton school. In this framework I have developed some restful api.",
-            "codeigniter":"My beginnings with this framework were already 4. I have developed some restful api.",
-            "django":"My beginnings in this framework are relatively recent and I have developed a blog for a company, between other test projects.",
-            "flask":"My beginnings in this framework are relatively recent, I have not had the pleasure of developing this technology yet.",
-            "spring":"My beginnings in this framework are relatively recent, I have not had the pleasure of developing this technology yet, I have only used it to migrate the front to other technologies such as Angular.",
-            "jquery":"My beginnings with this framework were 4 years ago since I studied frontend programming at Newton school, I have used it together with bootstrap or to complement other frameworks like Angular, I have also used it alone and I have developed a parking control."
-        },
-        "lenguajes":{
-            "cerrarBoton":"Close",
-            "nivel":"My level of knowledge"
-        },
-        "patrones":{
-            "cerrarBoton":"Close",
-            "titulo":"My history with this pattern",
-            "modular":"Used in Angular so that each page is a separate module also i implement lazy load.",
-            "flux":"Used in React.",
-            "redux":"Used in React and Angular to manage toastr, spinners and data that must be seen at the same time on all screens.",
-            "factory":"Used in Angular in a case that depending on the type of user one type of sidebar or another was displayed. Also in models where depending on the input data it returned one model or another.",
-            "observer":"Used in Angular practically Angular uses it in all its calls to the backend and I have also used it to show modals on many systems.",
-            "singleton":"Used in Node and Flutter. I have used it mostly to instantiate databases or connections to the backend.",
-            "prototype":"Used in Angular to work with user models with different profiles.",
-            "decorator":"Used in Angular, Spring and Laravel.",
-            "strategy":"Used in Angular to change the search algorithm from binary to sequential depending if the backend document array was ordered or not."
-        },
-        "otros":{
-            "titulo":"Others",
-            "cerrarBoton":"Close",
-            "nivel":"My level of knowledge in this technology"
-        }
-    },
-    "estudios":{
-        "titulo":"MY STUDIES",
-        "secundario":"Electronic technician with specialization in automation and industrial control",
-        "programador":"Full Stack Developer",
-        "curso":"Course",
-        "plataforma":"Platform",
-        "certification": "Certification",
-        "botonVer":"See",
-        "escuelaNewton":"Escuela Newton",
-        "udemy": "Udemy",
-        "presencial":"classroom course",
-        "otros":"Others"
-    },
-    "historia":{
-        "titulo":"SOME OF MY HISTORY",
-        "parrafo1":"This is a short summary of my history and how I got to programming. It all started in 2006 when my parents gave me my first computer, I entered the world of computing and when I could I took it apart, cleaned and bothered my parents to buy new components. Between video games and fictional films, I spent several years investigating what computer science was.",
-        "parrafo2":"I studied in a technical school specialized in electronics, where during the first years I saw what were electrical circuits, calculations for currents, resistances, etc. There I discovered another world that I really liked, it was the logic and mathematics that made the circuit work.",
-        "parrafo3":"Later we were taught logic gates which we used to do boolean algebra where combining different gates we could make an algorithm.",
-        "parrafo4":"In the year 2016 in the fifth year I learned Visual Basic to program P.L.C. (programmable logic controller). At that moment I realized which road I wanted to follow. It was not until we saw Arduino, I reaffirmed that. This was what I liked and what I wanted to dedicate myself to. It was at that time that I started studying JavaScript for myself.",
-        "parrafo5":"When I graduated as an Electronic Technician, I enrolled in the faculty, in the systems engineering career. But after a while I realized that it was not what I wanted, I did half a year there and all the programming examples were behind with what was currently used. Also the subjects where it was programmed, were very few and after speaking with people who had already received it, I realized that when I received I was going to have to start studying programming almost from the beginning.",
-        "parrafo6":"A friend told me that you could go to a Full Stack Programmer course in person and it was one of the best decisions because the people I met there contributed a lot to my development as a programmer, also thanks to this same friend, I developed my self-taught part for further leverage my learning and to this day I continue to learn.",
-        "parrafo7":"In the middle of the study I was doing work to pay for these courses. i worked freelance, for programming companies and marketing agencies. And I could continue tell jobs and tell many anecdotes, but I am in a project and I have to continue doing what I like program and create."
-    },
-    "academy":{
-        "titulo":"TRAININGS",
-        "subtitulo":"I offer training in the following areas.",
-        "masInformacion":"More information",
-        "botonContacto":"Contact me"
-    },
-    "contacto":{
-        "titulo":"WAYS",
-        "botonVisitar":"visit"
+    "estudios": "Studies",
+    "historia": "History",
+    "contribution": "Contribution",
+    "contacto": "Contact",
+    "idioma": {
+      "titulo": "Idiom",
+      "Español": "Spanish",
+      "Ingles": "English"
     }
+  },
+  "conocimientos": {
+    "descripcion": "Im Leonel Mazzan a Full Stack developer, specialized in Front End with the JavaScript stack.. Also with knowledge of the PHP and Python stack.",
+    "imagen": "ingles",
+    "frameworks": {
+      "titulo": "My history with this framework",
+      "nivel": "My level of knowledge",
+      "demo": "A demo of my work",
+      "demoBoton": "See",
+      "cerrarBoton": "Close",
+      "angular": "My beginnings with this framework were 4 years ago since I was studying frontend programming at the Newton training school. In this framework I have worked on quite large projects such as a hospital system, 6 banking projects, an order control system. I have used it to create PWA with implementation of service workers. I have performed tasks such as migrating between versions, compatibility, refactoring, design and create from scratch..",
+      "react": "My beginnings with this framework were 3 years ago. I have studied it from classes, classes with redux, to its most recent version with Hooks, with Hooks and Redux. I maked a shift control system for a veterinary and systems for prepaid and hospitals among other test systems and own projects.",
+      "ionic": "My beginnings with this framework were 4 years ago. I have studied it in all its versions. I maked a store for Android and other test systems.",
+      "reactNative": "My beginnings with this framework are recent, 2 years ago. I maked a restaurant ranking system for Android with expo, other test systems and I have supported other developments",
+      "node": "My beginnings with this framework were 4 years ago. In this framework I have developed sockets.io and some restful api including one with authentication by Google, Facebook and email, also manage profiles and JWT.",
+      "flutter": "My beginnings in this framework are relatively recent and I did not had the pleasure of developing this technology yet, more than doing test projects.",
+      "laravel": "My beginnings with this framework were 4 years ago. In this framework I have developed some restful api, one of them with email authentication and token management.",
+      "slim": "My beginnings with this framework were 4 years ago when I was studying backend development at Newton school. In this framework I have developed some restful api.",
+      "codeigniter": "My beginnings with this framework were already 4. I have developed some restful api.",
+      "django": "My beginnings in this framework are relatively recent and I have developed a blog for a company, between other test projects.",
+      "flask": "My beginnings in this framework are relatively recent, I have not had the pleasure of developing this technology yet.",
+      "spring": "My beginnings in this framework are relatively recent, I have not had the pleasure of developing this technology yet, I have only used it to migrate the front to other technologies such as Angular.",
+      "jquery": "My beginnings with this framework were 4 years ago since I studied frontend programming at Newton school, I have used it together with bootstrap or to complement other frameworks like Angular, I have also used it alone and I have developed a parking control."
+    },
+    "lenguajes": {
+      "cerrarBoton": "Close",
+      "nivel": "My level of knowledge"
+    },
+    "patrones": {
+      "cerrarBoton": "Close",
+      "titulo": "My history with this pattern",
+      "modular": "Used in Angular so that each page is a separate module also i implement lazy load.",
+      "flux": "Used in React.",
+      "redux": "Used in React and Angular to manage toastr, spinners and data that must be seen at the same time on all screens.",
+      "factory": "Used in Angular in a case that depending on the type of user one type of sidebar or another was displayed. Also in models where depending on the input data it returned one model or another.",
+      "observer": "Used in Angular practically Angular uses it in all its calls to the backend and I have also used it to show modals on many systems.",
+      "singleton": "Used in Node and Flutter. I have used it mostly to instantiate databases or connections to the backend.",
+      "prototype": "Used in Angular to work with user models with different profiles.",
+      "decorator": "Used in Angular, Spring and Laravel.",
+      "strategy": "Used in Angular to change the search algorithm from binary to sequential depending if the backend document array was ordered or not."
+    },
+    "otros": {
+      "titulo": "Others",
+      "cerrarBoton": "Close",
+      "nivel": "My level of knowledge in this technology"
+    }
+  },
+  "estudios": {
+    "titulo": "MY STUDIES",
+    "secundario": "Electronic technician with specialization in automation and industrial control",
+    "programador": "Full Stack Developer",
+    "curso": "Course",
+    "plataforma": "Platform",
+    "certification": "Certification",
+    "botonVer": "See",
+    "escuelaNewton": "Escuela Newton",
+    "udemy": "Udemy",
+    "presencial": "classroom course",
+    "otros": "Others"
+  },
+  "historia": {
+    "titulo": "SOME OF MY HISTORY",
+    "parrafo1": "This is a short summary of my history and how I got to programming. It all started in 2006 when my parents gave me my first computer, I entered the world of computing and when I could I took it apart, cleaned and bothered my parents to buy new components. Between video games and fictional films, I spent several years investigating what computer science was.",
+    "parrafo2": "I studied in a technical school specialized in electronics, where during the first years I saw what were electrical circuits, calculations for currents, resistances, etc. There I discovered another world that I really liked, it was the logic and mathematics that made the circuit work.",
+    "parrafo3": "Later we were taught logic gates which we used to do boolean algebra where combining different gates we could make an algorithm.",
+    "parrafo4": "In the year 2016 in the fifth year I learned Visual Basic to program P.L.C. (programmable logic controller). At that moment I realized which road I wanted to follow. It was not until we saw Arduino, I reaffirmed that. This was what I liked and what I wanted to dedicate myself to. It was at that time that I started studying JavaScript for myself.",
+    "parrafo5": "When I graduated as an Electronic Technician, I enrolled in the faculty, in the systems engineering career. But after a while I realized that it was not what I wanted, I did half a year there and all the programming examples were behind with what was currently used. Also the subjects where it was programmed, were very few and after speaking with people who had already received it, I realized that when I received I was going to have to start studying programming almost from the beginning.",
+    "parrafo6": "A friend told me that you could go to a Full Stack Programmer course in person and it was one of the best decisions because the people I met there contributed a lot to my development as a programmer, also thanks to this same friend, I developed my self-taught part for further leverage my learning and to this day I continue to learn.",
+    "parrafo7": "In the middle of the study I was doing work to pay for these courses. i worked freelance, for programming companies and marketing agencies. And I could continue tell jobs and tell many anecdotes, but I am in a project and I have to continue doing what I like program and create."
+  },
+  "contribution": {
+    "titulo": "My contribution",
+    "subtitulo": "I offer training in the following areas.",
+    "masInformacion": "More information",
+    "botonContacto": "Contact me",
+    "tituloAcademia": "Academy",
+    "academiaParrafo1": "This is my training program. It is an academy with a work focus. I do not intend to teach programming from scratch, I intend to provide tools for the workplace. I made it because I saw that there were no courses that had this approach.",
+    "academiaParrafo2": "I intend to give the ability to solve problems based on a requirement, ability to estimate times, ability to optimize. And to be able to work optimally with all the tools used in the courses.",
+    "academiaParrafo3": "The academy consists of many courses:",
+    "academiaParrafo4": "In this course I intend to teach how to work with HTML, CSS, JS, Jquery, Bootstrap. Create projects based on the requirement of a client. Be able to estimate it. Responsive programming. Solve problems and optimize code.",
+    "academiaParrafo5": "In this course I intend to teach how to work with React. Both with class components (its life cycle and state management) and with functional components (its life cycle and state management, with hooks). The different hooks. Code refactoring. Route management. Context and Redux (both with classes and hooks). Ticket solution.",
+    "academiaParrafo6": "In this course I intend to teach how to create a project. Route management. Code refactoring. Different options for compiling the project. Development of pwa. Ticket solution. Component communication.",
+    "academiaParrafo7": "(I'm still working on the courses creating content and refining what already exists.)",
+    "academiaParrafo8": "Por el momento solo tengo terminado el Básico y parte del de React. La academia es gratuita, mi idea es que sea un aporte a la comunidad y dar una mano al que lo necesite. Si tienes ganas de empezar, escríbeme y coordinamos el envió del primer practico del curso, que pretendas hacer.",
+    "tituloPlantilla": "Templates",
+    "plantillaParrafo1": "It is a small project, but my idea is that it can be used by whoever needs it. Either to implement Redux or to create a project from scratch.",
+    "plantillaParrafo2": "To do this, i used the following libraries:",
+    "plantillaParrafo3": "I leave the repository link:",
+    "plantillaParrafo4": "My idea is that it can be used by whoever needs it. Either to implement Redux or to create a project from scratch.",
+    "plantillaParrafo5": "To do this, i used the following libraries:",
+    "plantillaParrafo6": "I leave the repository link:"
+  },
+  "contacto": {
+    "titulo": "WAYS",
+    "botonVisitar": "visit"
+  }
 }

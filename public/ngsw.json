@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1625666061459,
+  "timestamp": 1628854259560,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -8,8 +8,8 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/5-es2015.e6b0c80f72d21d8b836b.js",
-        "/5-es5.e6b0c80f72d21d8b836b.js",
+        "/5-es2015.f3469270996f5b06f366.js",
+        "/5-es5.f3469270996f5b06f366.js",
         "/favicon.ico",
         "/index.html",
         "/main-es2015.7ae15758414ff3990374.js",
@@ -17,10 +17,10 @@
         "/manifest.webmanifest",
         "/polyfills-es2015.09ee2f719bd21ab5c7b1.js",
         "/polyfills-es5.12b5c32d1603e35dd556.js",
-        "/runtime-es2015.65d296bcedaaa466abf8.js",
-        "/runtime-es5.65d296bcedaaa466abf8.js",
+        "/runtime-es2015.ac6559d679499272ac3b.js",
+        "/runtime-es5.ac6559d679499272ac3b.js",
         "/scripts.0e4a9ed645c026ed8377.js",
-        "/styles.922028a28c8ff658f8ba.css"
+        "/styles.cb5a077dc1b525b8da34.css"
       ],
       "patterns": []
     },
@@ -63,6 +63,7 @@
         "/assets/images/Mdarkblue.svg",
         "/assets/images/Sdarkblue.svg",
         "/assets/images/XLdarkblue.svg",
+        "/assets/images/academyLogo.svg",
         "/assets/images/app-error.png",
         "/assets/images/bienvenido.svg",
         "/assets/images/contacto1.jpeg",
@@ -94,7 +95,9 @@
         "/assets/images/lenguajes/sass.jpg",
         "/assets/images/lenguajes/sql.png",
         "/assets/images/lenguajes/typescript.png",
+        "/assets/images/lmLogo.svg",
         "/assets/images/logo.svg",
+        "/assets/images/logoAcademy.jpg",
         "/assets/images/otros/IBMCloud.png",
         "/assets/images/otros/awsCloud.png",
         "/assets/images/otros/docker.jpg",
@@ -128,8 +131,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/5-es2015.e6b0c80f72d21d8b836b.js": "4fb35d621f555555be3cdba91038a064a2920d18",
-    "/5-es5.e6b0c80f72d21d8b836b.js": "3131bc1b5f368fef51391a19bffc1ab9c7417912",
+    "/5-es2015.f3469270996f5b06f366.js": "00092bd27120cd96e90719b3a8a831586f1911f7",
+    "/5-es5.f3469270996f5b06f366.js": "8c9748b8a3784b9d98c413deb4a0c751c2ded214",
     "/FiraMono-Bold.ad0eccaa8b5355926f09.ttf": "0d30ba84eeb265f8a277d182fad7f9236cad51d8",
     "/assets/css/animate.min.css": "29a6f54569c193ffd6116f03be3eb42359c60eb7",
     "/assets/fontawesome/FiraMono-Bold.ttf": "0d30ba84eeb265f8a277d182fad7f9236cad51d8",
@@ -149,8 +152,8 @@
     "/assets/fontawesome/webfonts/fa-solid-900.ttf": "ff8f37dfad105796bd924d0db0d37a4ff252618c",
     "/assets/fontawesome/webfonts/fa-solid-900.woff": "15c52209092ce0fb7210e40e2a01acc8b4a5c494",
     "/assets/fontawesome/webfonts/fa-solid-900.woff2": "75a88815c47a249eadb5f0edc1675957f860cca7",
-    "/assets/i18n/en.json": "439847eabdf7564e278ad7e64b79a253223483dc",
-    "/assets/i18n/es.json": "60c6964ca4ef64891b5668503168ace16fe025b5",
+    "/assets/i18n/en.json": "0c78bea921768ebe10f1d1700f8e0a52d7f5b0dd",
+    "/assets/i18n/es.json": "f309ef9caf2acf63562445884973db539512dede",
     "/assets/icons/icon-128x128.png": "1f53aa2e7c0834398d0cc3955b3410e9000506d6",
     "/assets/icons/icon-144x144.png": "35af4c33a82dafa63bc3ed43083846448404e3d2",
     "/assets/icons/icon-152x152.png": "30e3ccfd5a8e97a3319e068b6a2329a8e75264bf",
@@ -164,6 +167,7 @@
     "/assets/images/Mdarkblue.svg": "706e151ecb41005d593505ae817961673466b7fb",
     "/assets/images/Sdarkblue.svg": "1e1de217c3c62c53145768a1e9ef3cf04c79e580",
     "/assets/images/XLdarkblue.svg": "c73b10031668e47c1f662307a308eeeb4e558c9c",
+    "/assets/images/academyLogo.svg": "2b29158efe5941d653456ff03932682a7ce8cec4",
     "/assets/images/app-error.png": "614f4ebf3d78ae7cc08bb4d5a67f2f6cdfcef2ff",
     "/assets/images/bienvenido.svg": "af122d9f9dd4f822ee683720a59292b472164a45",
     "/assets/images/contacto1.jpeg": "7d5bcee1e7e98430e164e867583787cb27536011",
@@ -195,7 +199,9 @@
     "/assets/images/lenguajes/sass.jpg": "8593fa78e52b90a46bb0152959267a52b74a7730",
     "/assets/images/lenguajes/sql.png": "471f3583f7f2856a94940b8b94d785d41ce0b658",
     "/assets/images/lenguajes/typescript.png": "dc8dada227d0b20fc6f6d2fdf100eb9922dbb05b",
+    "/assets/images/lmLogo.svg": "c14197f93edbbd0c4f361f837fa6c41c777486ab",
     "/assets/images/logo.svg": "19abbb1d8900d0cd1b38772eda708626f0e9bb0e",
+    "/assets/images/logoAcademy.jpg": "225264fc2a06c60a8acffb3fdfdc20c2d9e3d171",
     "/assets/images/otros/IBMCloud.png": "c54b7da6edfe7c817450e79cb117a18a6a5138e7",
     "/assets/images/otros/awsCloud.png": "7d9ac313229c179e836bb9cef0a49359f22a48c3",
     "/assets/images/otros/docker.jpg": "00a92f370c64d5df5ef731add0a0cccc5132c9ca",
@@ -224,16 +230,16 @@
     "/fa-solid-900.9451d5fee89b51a20f8a.woff2": "75a88815c47a249eadb5f0edc1675957f860cca7",
     "/fa-solid-900.a940d584750708f5435c.woff": "15c52209092ce0fb7210e40e2a01acc8b4a5c494",
     "/favicon.ico": "c75c034713bff195f1d71fe464a547bb99132c04",
-    "/index.html": "52c98a49a4a49134b86f3630d7a8b55180807d3e",
+    "/index.html": "139dd87144c029dee4ef49aa1c6047ee860f6e8b",
     "/main-es2015.7ae15758414ff3990374.js": "ac3f7c86cdf1f3c4c2d67632877c941a1d1b8353",
     "/main-es5.7ae15758414ff3990374.js": "d242f226f4fd12c9d3c33d7705ab456829170db0",
     "/manifest.webmanifest": "93a6e454ad474ab56066af5f4f4f5758a51e549a",
     "/polyfills-es2015.09ee2f719bd21ab5c7b1.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "/polyfills-es5.12b5c32d1603e35dd556.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
-    "/runtime-es2015.65d296bcedaaa466abf8.js": "4b64fe1177e51cd90d37b5751f7b5e70bcf6ccec",
-    "/runtime-es5.65d296bcedaaa466abf8.js": "0fe6cdd9bb1df036efa233d795954b3e2d2fd8a6",
+    "/runtime-es2015.ac6559d679499272ac3b.js": "4b685692f1bc55e878c1d2ca5e5ff4728e911722",
+    "/runtime-es5.ac6559d679499272ac3b.js": "44710d83006562c42eb667ba758a0871731a6692",
     "/scripts.0e4a9ed645c026ed8377.js": "3e4cfff04d07a546d52e7fa1375c94fc171f34bc",
-    "/styles.922028a28c8ff658f8ba.css": "b8c75630d35007e7c2a475370a93a14732b42ff4"
+    "/styles.cb5a077dc1b525b8da34.css": "c40baa6da08d8d0d7b20e1eccc79751093e1d164"
   },
   "navigationUrls": [
     {

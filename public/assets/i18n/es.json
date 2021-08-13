@@ -102,7 +102,7 @@
     "academiaParrafo5": "En este curso pretendo enseñar a trabajar con React. Tanto con class components (su ciclo de vida y manejo del state) como con functional components (su ciclo de vida y manejo del state, con hooks). Los distintos hooks. Refactorización de código. Manejo de rutas. Context y Redux (tanto con clases como con hooks). Solución de tickets.",
     "academiaParrafo6": "En este curso pretendo enseñar a crear un proyecto. Manejo de rutas. Refactorización de código. Distintas opciones para el compilado del proyecto. Desarrollo de pwa. Solución de tickets. Comunicación de componentes.",
     "academiaParrafo7": "(Sigo trabajando en los cursos creando contenido y refinando lo ya existente.)",
-    "academiaParrafo8": "Por el momento solo tengo terminado el Básico y parte del de React. La academia es gratuita, mi idea es que sea un aporte a la comunidad y dar una mano al que lo necesite. Si tienes ganas de empezar, escríbeme y coordinamos el envió del primer practico del curso, que pretendas hacer.",
+    "academiaParrafo8": "Por el momento solo tengo terminado el Básico, el de React y parte del de Angular. La academia es gratuita, mi idea es que sea un aporte a la comunidad y dar una mano al que lo necesite. Si tienes ganas de empezar, escríbeme y coordinamos el envió del primer practico del curso, que pretendas hacer.",
     "tituloPlantilla": "Plantillas",
     "plantillaParrafo1": "Es un proyecto pequeño, pero mi idea es que pueda ser usado por el que lo necesite. Ya sea para implementar Redux o para crear un proyecto de cero.",
     "plantillaParrafo2": "Para realizarlo utilice las siguientes librerías:",

@@ -103,7 +103,7 @@
     "academiaParrafo5": "In this course I intend to teach how to work with React. Both with class components (its life cycle and state management) and with functional components (its life cycle and state management, with hooks). The different hooks. Code refactoring. Route management. Context and Redux (both with classes and hooks). Ticket solution.",
     "academiaParrafo6": "In this course I intend to teach how to create a project. Route management. Code refactoring. Different options for compiling the project. Development of pwa. Ticket solution. Component communication.",
     "academiaParrafo7": "(I'm still working on the courses creating content and refining what already exists.)",
-    "academiaParrafo8": "Por el momento solo tengo terminado el Básico y parte del de React. La academia es gratuita, mi idea es que sea un aporte a la comunidad y dar una mano al que lo necesite. Si tienes ganas de empezar, escríbeme y coordinamos el envió del primer practico del curso, que pretendas hacer.",
+    "academiaParrafo8": "At the moment I only have finished Basic, React and part of Angular. The academy is free, my idea is that it be a contribution to the community and give a hand to those who need it. If you want to start, write to me and we will coordinate the sending of the first practical of the course, which you intend to do.",
     "tituloPlantilla": "Templates",
     "plantillaParrafo1": "It is a small project, but my idea is that it can be used by whoever needs it. Either to implement Redux or to create a project from scratch.",
     "plantillaParrafo2": "To do this, i used the following libraries:",

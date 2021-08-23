@@ -109,7 +109,10 @@
     "plantillaParrafo3": "Dejo el link del repositorio:",
     "plantillaParrafo4": "Mi idea es que pueda ser usado por el que lo necesite. Ya sea para implementar Redux o para crear un proyecto de cero.",
     "plantillaParrafo5": "Para realizarlo utilice las siguientes librerías:",
-    "plantillaParrafo6": "Dejo el link del repositorio:"
+    "plantillaParrafo6": "Dejo el link del repositorio:",
+    "tituloLibreria": "Librerias",
+    "libreriaParrafo1": "es un progress-bar totalmente customizable. Desde el ancho, color, tema, titulo, acción, descripción, si necesitas que sea de verde a rojo o de rojo a verde, también bordes cuadrados o redondos. O si simplemente necesitas la barra de progreso, se le puede quitar todo lo demás.",
+    "libreriaParrafo2": "Dejo el link de npm y del repositorio:"
   },
   "contacto": {
     "titulo": "FORMAS",

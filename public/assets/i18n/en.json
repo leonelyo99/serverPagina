@@ -110,7 +110,10 @@
     "plantillaParrafo3": "I leave the repository link:",
     "plantillaParrafo4": "My idea is that it can be used by whoever needs it. Either to implement Redux or to create a project from scratch.",
     "plantillaParrafo5": "To do this, i used the following libraries:",
-    "plantillaParrafo6": "I leave the repository link:"
+    "plantillaParrafo6": "I leave the repository link:",
+    "tituloLibreria": "Libraries",
+    "libreriaParrafo1": "it is a fully customizable progress-bar. From the width, color, theme, title, action, description, if you need it to be from green to red or from red to green, also square or round edges. Or if you just need the progress bar, everything else can be removed.",
+    "libreriaParrafo2": "I leave the repository link:"
   },
   "contacto": {
     "titulo": "WAYS",

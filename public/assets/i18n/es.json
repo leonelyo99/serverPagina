@@ -30,19 +30,20 @@
       "demo": "Una demo de mi trabajo",
       "demoBoton": "Ver",
       "cerrarBoton": "Cerrar",
-      "angular": "Mis inicios con este framework fueron hace ya 4 años desde que estudiaba programación frontend en la escuela de capacitación Newton. En este framework he trabajado en proyectos bastante grandes como el sistema de un hospital, 6 proyectos bancarios, un sistema de control de pedidos. Lo he utilizado para crear PWA con la implementación de service workers. He desempeñado tareas como migrar entre versiones, compatibilizar, refactorizar, diseñar y crear desde cero.",
-      "react": "Mis inicios con este framework fueron hace ya 3 años. Lo he estudiado desde clases, clases con redux, hasta su más reciente versión con Hooks, con Hooks y Redux. Realice un sistema de control de turnos para una veterinaria y sistemas para prepagas y hospitales entre otros sistemas de prueba y proyectos propios.",
-      "ionic": "Mis inicios con este framework fueron hace ya 4 años. Lo he estudiado en todas sus versiones. Realice una tienda para Android y otros sistemas de prueba.",
-      "reactNative": "Mis inicios con este framework son recientes, hace 2 años. Realice un sistema de ranking de restaurantes para Android con expo, otros sistemas de prueba y he dado soporte en otros desarrollos.",
-      "node": "Mis inicios con este framework fueron hace ya 4 años. En este framework he desarrollado sockets.io y algunas api restful entre ellas una con autenticación por Google, Facebook e email también manejo perfiles y JWT.",
+      "angular": "Mis inicios con este framework fueron hace ya 5 años desde que estudiaba programación frontend en la escuela de capacitación Newton. En este framework he trabajado en proyectos bastante grandes como el sistema de un hospital, 6 proyectos bancarios, un sistema de control de pedidos, un socket chat. Lo he utilizado para crear PWA con la implementación de service workers. He desempeñado tareas como migrar entre versiones, compatibilizar, refactorizar, diseñar y crear desde cero.",
+      "react": "Mis inicios con este framework fueron hace ya 4 años. Lo he estudiado desde Clases, Clases-Redux, hasta su más reciente versión con Hooks, con Hooks-Redux y Next.js. Realice un sistema de control de turnos para una veterinaria, sistemas para prepagas (ecomerce, gestion de clinicas, facturacion, turnos, prestadores, portales), sistemas para hospitales, sistemas financieros, plataformas vocacionales y Sockets",
+      "vue": "Mis inicios con este framework fueron hace ya 2 años. Lo he estudiado con composition api y options api. Realice un socekt y otros sistemas de prueba.",
+      "ionic": "Mis inicios con este framework fueron hace ya 5 años. Lo he estudiado en todas sus versiones. Realice una tienda para Android y otros sistemas de prueba.",
+      "reactNative": "Mis inicios con este framework son recientes, hace 3 años. Realice un sistema de ranking de restaurantes para Android con expo, otros sistemas de prueba y he dado soporte en otros desarrollos.",
+      "node": "Mis inicios con este framework fueron hace ya 5 años. En este framework he desarrollado sockets.io y algunas api restful entre ellas una con autenticación por Google, Facebook e email también manejo perfiles y JWT.",
       "flutter": "Mis inicios en este framework son relativamente recientes y todavía no he tenido el placer de desarrollar en esta tecnología, más de hacer proyectos de prueba.",
-      "laravel": "Mis inicios con este framework fueron hace ya 4 años. En este framework he desarrollado algunas api restful, una de ellas con autenticación por mail y manejo de tokens.",
-      "slim": "Mis inicios con este framework fueron hace ya 4 años cuando estudiaba desarrollo backend en la escuela de capacitación Newton. En este framework he desarrollado algunas api restful.",
-      "codeigniter": "Mis inicios con este framework fueron hace ya 4. He desarrollado algunas api restful.",
+      "laravel": "Mis inicios con este framework fueron hace ya 5 años. En este framework he desarrollado algunas api restful, una de ellas con autenticación por mail y manejo de tokens.",
+      "slim": "Mis inicios con este framework fueron hace ya 5 años cuando estudiaba desarrollo backend en la escuela de capacitación Newton. En este framework he desarrollado algunas api restful.",
+      "codeigniter": "Mis inicios con este framework fueron hace ya 5. He desarrollado algunas api restful.",
       "django": "Mis inicios en este framework son relativamente recientes y he realizado un blog para una empresa, entre otros proyectos de prueba.",
       "flask": "Mis inicios en este framework son relativamente recientes todavía no he tenido el placer de desarrollar en esta tecnología.",
       "spring": "Mis inicios en este framework son relativamente recientes todavía no he tenido el placer de desarrollar en esta tecnología solo lo he usado para migrar el front a otras tecnologías como Angular.",
-      "jquery": "Mis inicios con este framework fueron hace ya 4 años desde que estudiaba programación frontend en la escuela de capacitación Newton.Lo he utilizado junto con bootstrap o para complementar otros frameworks como Angular, también lo he usado solo y he desarrollado el control de un estacionamiento enteramente con Jquery."
+      "jquery": "Mis inicios con este framework fueron hace ya 5 años desde que estudiaba programación frontend en la escuela de capacitación Newton.Lo he utilizado junto con bootstrap o para complementar otros frameworks como Angular, también lo he usado solo y he desarrollado el control de un estacionamiento enteramente con Jquery."
     },
     "lenguajes": {
       "cerrarBoton": "Cerrar",
@@ -51,12 +52,12 @@
     "patrones": {
       "cerrarBoton": "Cerrar",
       "titulo": "Mi historia con este patrón",
-      "modular": "Utilizado en Angular para que cada pagina sea un modulo independiente también implementando leazy load.",
+      "modular": "Utilizado en Angular, Vue y React para que cada pagina sea un modulo independiente también implementando leazy load.",
       "flux": "Utilizado en React prácticamente este patron fue creado para react.",
       "redux": "Utilizado en React y en Angular para manejar los toast, espiners y datos que deben verse al mismo tiempo en todas las pantallas.",
       "factory": "Utilizado en Angular en un caso que dependiendo del tipo de usuario se mostraba un tipo de sidebar u otro. También en modelos donde dependiendo del dato de entrada devolvía un modelo u otro.",
       "observer": "Utilizado en Angular prácticamente Angular lo utiliza en todas sus llamadas al backend y también lo he utilizado para mostrar modales en varios sistemas.",
-      "singleton": "Utilizado en Node y en Flutter. Lo he usado mayormente para instanciar bases de datos u conexiones al backend.",
+      "singleton": "Utilizado en Node, Flutter y para el desarrollo de sockets en Angualr, Vue y React. Lo he usado mayormente para instanciar bases de datos u conexiones al backend.",
       "prototype": "Utilizado en Angular para trabajar con los modelos de los usuarios con diferentes perfiles.",
       "decorator": "Utilizado en Angular, Spring y en Laravel.",
       "strategy": "Utilizado en Angular para cambiar el algoritmo de búsqueda de binaria a secuencial dependiendo si el array de documentos del backend venia ordenado o no."
@@ -111,8 +112,11 @@
     "plantillaParrafo5": "Para realizarlo utilice las siguientes librerías:",
     "plantillaParrafo6": "Dejo el link del repositorio:",
     "tituloLibreria": "Librerias",
-    "libreriaParrafo1": "es un progress-bar totalmente customizable. Desde el ancho, color, tema, titulo, acción, descripción, si necesitas que sea de verde a rojo o de rojo a verde, también bordes cuadrados o redondos. O si simplemente necesitas la barra de progreso, se le puede quitar todo lo demás.",
-    "libreriaParrafo2": "Dejo el link de npm y del repositorio:"
+    "libreriaParrafo1": "Es un progress-bar totalmente customizable. Desde el ancho, color, tema, titulo, acción, descripción, si necesitas que sea de verde a rojo o de rojo a verde, también bordes cuadrados o redondos. O si simplemente necesitas la barra de progreso, se le puede quitar todo lo demás.",
+    "libreriaParrafo2": "Dejo el link de npm y del repositorio:",
+    "tituloSocket": "Socket",
+    "socketParrafo1": "Es un socket chat. Back en Node y Fronts en Angular, React y Vue para poder ver las diferentes implementaciones. Tiene varias salas de chat, notificaciones, aviso de errores. La idea es que sea una plantilla para implementar comunicación cliente-servidor en tiempo real.",
+    "socketParrafo2": "Dejo los repositorios:"
   },
   "contacto": {
     "titulo": "FORMAS",

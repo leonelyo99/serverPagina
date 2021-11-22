@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1637601504664,
+  "timestamp": 1637605184048,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -131,7 +131,19 @@
       "patterns": []
     }
   ],
-  "dataGroups": [],
+  "dataGroups": [
+    {
+      "name": "leo-web",
+      "patterns": [
+        "https:\\/\\/leonelmazzan\\.com"
+      ],
+      "strategy": "freshness",
+      "maxSize": 100,
+      "maxAge": 864000000,
+      "timeoutMs": 10000,
+      "version": 1
+    }
+  ],
   "hashTable": {
     "/5-es2015.b00f7cea75dae0393fdc.js": "07afcfec0d43a03a8bdd227a90172a1263bfd231",
     "/5-es5.b00f7cea75dae0393fdc.js": "b6c1dea2d9214d1dbd65ae5f5718ddd1cc54cdce",

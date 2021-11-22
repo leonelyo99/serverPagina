@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1637605444815,
+  "timestamp": 1637606025510,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "name": "assets",
-      "installMode": "lazy",
+      "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
         "/FiraMono-Bold.ad0eccaa8b5355926f09.ttf",

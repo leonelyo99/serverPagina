@@ -52,7 +52,7 @@
     "patrones": {
       "cerrarBoton": "Close",
       "titulo": "My history with this pattern",
-      "modular": "Used in Angular so that each page is a separate module also i implement lazy load.",
+      "modular": "Used in Angular, Vue and React so that each page is an independent module also implementing leazy load.",
       "flux": "Used in React.",
       "redux": "Used in React and Angular to manage toastr, spinners and data that must be seen at the same time on all screens.",
       "factory": "Used in Angular in a case that depending on the type of user one type of sidebar or another was displayed. Also in models where depending on the input data it returned one model or another.",

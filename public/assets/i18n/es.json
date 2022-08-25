@@ -22,7 +22,7 @@
     }
   },
   "conocimientos": {
-    "descripcion": "Soy Leonel Mazzan un programador Full Stack, especializado en Front End con el stack de JavaScript. También con conocimientos del stack de PHP y de Python.",
+    "descripcion": "Soy Leonel Mazzan un programador Full Stack, especializado en Front End con el stack de JavaScript.",
     "imagen": "español",
     "frameworks": {
       "titulo": "Mi historia con este framework",
@@ -31,11 +31,13 @@
       "demoBoton": "Ver",
       "cerrarBoton": "Cerrar",
       "angular": "Mis inicios con este framework fueron hace ya 5 años desde que estudiaba programación frontend en la escuela de capacitación Newton. En este framework he trabajado en proyectos bastante grandes como el sistema de un hospital, 6 proyectos bancarios, un sistema de control de pedidos, un socket chat. Lo he utilizado para crear PWA con la implementación de service workers. He desempeñado tareas como migrar entre versiones, compatibilizar, refactorizar, diseñar y crear desde cero.",
-      "react": "Mis inicios con este framework fueron hace ya 4 años. Lo he estudiado desde Clases, Clases-Redux, hasta su más reciente versión con Hooks, con Hooks-Redux y Next.js. Realice un sistema de control de turnos para una veterinaria, sistemas para prepagas (ecomerce, gestion de clinicas, facturacion, turnos, prestadores, portales), sistemas para hospitales, sistemas financieros, plataformas vocacionales y Sockets",
-      "vue": "Mis inicios con este framework fueron hace ya 2 años. Lo he estudiado con composition api y options api. Realice un socekt y otros sistemas de prueba.",
+      "react": "Mis inicios con este framework fueron hace ya 4 años. Lo he estudiado desde Clases, Clases-Redux, hasta su más reciente versión con Hooks, con Hooks-Redux. Realice un sistema de control de turnos para una veterinaria, sistemas para prepagas (gestion de clinicas, facturacion, turnos, prestadores, portales), sistemas para hospitales, sistemas financieros, plataformas vocacionales y Sockets. He desempeñado tareas como migrar entre versiones, compatibilizar, refactorizar, diseñar y crear desde cero.",
+      "next": "Mis inicios con este framework fueron hace 2 años. He hecho un sistema vocacional con Next y Strapi. Tres eCommerce (uno con strapi, uno con Amplience y Commercetools, uno con Next y Node en back).",
+      "vue": "Mis inicios con este framework fueron hace 2 años. Lo he estudiado con composition api y options api. Realice un socekt y otros sistemas de prueba.",
       "ionic": "Mis inicios con este framework fueron hace ya 5 años. Lo he estudiado en todas sus versiones. Realice una tienda para Android y otros sistemas de prueba.",
-      "reactNative": "Mis inicios con este framework son recientes, hace 3 años. Realice un sistema de ranking de restaurantes para Android con expo, otros sistemas de prueba y he dado soporte en otros desarrollos.",
+      "reactNative": "Mis inicios con este framework son hace 3 años. Realice un sistema de ranking de restaurantes para Android con expo. Sistema de seguros. Soporte en sistemas de salud android.",
       "node": "Mis inicios con este framework fueron hace ya 5 años. En este framework he desarrollado sockets.io y algunas api restful entre ellas una con autenticación por Google, Facebook e email también manejo perfiles y JWT.",
+      "nest": "Mis inicios con este framework fueron hace 6 meses. En este framework he desarrollado sockets.io y algunas api restful entre ellas una con autenticación por Google, Facebook e email también manejo perfiles y JWT.",
       "flutter": "Mis inicios en este framework son relativamente recientes y todavía no he tenido el placer de desarrollar en esta tecnología, más de hacer proyectos de prueba.",
       "laravel": "Mis inicios con este framework fueron hace ya 5 años. En este framework he desarrollado algunas api restful, una de ellas con autenticación por mail y manejo de tokens.",
       "slim": "Mis inicios con este framework fueron hace ya 5 años cuando estudiaba desarrollo backend en la escuela de capacitación Newton. En este framework he desarrollado algunas api restful.",
@@ -52,15 +54,16 @@
     "patrones": {
       "cerrarBoton": "Cerrar",
       "titulo": "Mi historia con este patrón",
-      "modular": "Utilizado en Angular, Vue y React para que cada pagina sea un modulo independiente también implementando leazy load.",
-      "flux": "Utilizado en React prácticamente este patron fue creado para react.",
-      "redux": "Utilizado en React y en Angular para manejar los toast, espiners y datos que deben verse al mismo tiempo en todas las pantallas.",
-      "factory": "Utilizado en Angular en un caso que dependiendo del tipo de usuario se mostraba un tipo de sidebar u otro. También en modelos donde dependiendo del dato de entrada devolvía un modelo u otro.",
-      "observer": "Utilizado en Angular prácticamente Angular lo utiliza en todas sus llamadas al backend y también lo he utilizado para mostrar modales en varios sistemas.",
-      "singleton": "Utilizado en Node, Flutter y para el desarrollo de sockets en Angualr, Vue y React. Lo he usado mayormente para instanciar bases de datos u conexiones al backend.",
-      "prototype": "Utilizado en Angular para trabajar con los modelos de los usuarios con diferentes perfiles.",
-      "decorator": "Utilizado en Angular, Spring y en Laravel.",
-      "strategy": "Utilizado en Angular para cambiar el algoritmo de búsqueda de binaria a secuencial dependiendo si el array de documentos del backend venia ordenado o no."
+      "modular": "Utilizado en Angular, Vue, React y Nest para crear modulos independientes. También implementando leazy load en React y Angular.",
+      "flux": "Utilizado en React.",
+      "redux": "Utilizado en React y en Angular para tener los datos organizados y disponibles en toda la aplicación.",
+      "factory": "Utilizado en Angular y React, en un caso que dependiendo del tipo de usuario se mostraba un tipo de sidebar u otro. También en modelos donde dependiendo del dato de entrada devolvía un modelo u otro.",
+      "observer": "Utilizado en Angular para la llamada de modales y Sockets",
+      "singleton": "Utilizado en Node, Flutter, Nest y para el desarrollo de sockets en Angular, Vue y React. Lo he usado mayormente para instanciar bases de datos u conexiones al backend.",
+      "decorator": "Utilizado en Angular y Nest",
+      "strategy": "Utilizado en Angular para cambiar el algoritmo de búsqueda de binaria a secuencial dependiendo si el array de documentos del backend venía ordenado o no.",
+      "adapter": "Utilizado en React para crear una capa de abstracción en el Cliente HTTP. Que permita no depender de axios o fetch",
+      "facade": "Utilizado para adaptar librerías."
     },
     "otros": {
       "titulo": "Otros",

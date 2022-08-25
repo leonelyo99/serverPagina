@@ -22,7 +22,7 @@
     }
   },
   "conocimientos": {
-    "descripcion": "Im Leonel Mazzan a Full Stack developer, specialized in Front End with the JavaScript stack. Also with knowledge of the PHP and Python stack.",
+    "descripcion": "Im Leonel Mazzan a Full Stack developer, specialized in Front End with the JavaScript stack.",
     "imagen": "ingles",
     "frameworks": {
       "titulo": "My history with this framework",
@@ -30,12 +30,14 @@
       "demo": "A demo of my work",
       "demoBoton": "See",
       "cerrarBoton": "Close",
-      "angular": "My beginnings with this framework were 5 years ago since I was studying frontend programming at the Newton training school. In this framework I have worked on quite large projects such as a hospital system, 6 banking projects, an order control system, a chat socket. I have used it to create PWA with implementation of service workers. I have performed tasks such as migrating between versions, compatibility, refactoring, design and create from scratch..",
-      "react": "My beginnings with this framework were 4 years ago. I have studied it from classes, classes-redux, to its most recent version with Hooks, with Hooks-Redux and Next.js. Make a shift control system for a veterinary, prepaid systems (ecomerce, clinic management, billing, shifts, providers, portals), systems for hospitals, financial systems, vocational platforms and Sockets.",
-      "vue": "My beginnings with this framework were 2 years ago. I have studied it with composition api and options api. I did a socekt and other test systems.",
+      "angular": "My beginnings with this framework were 5 years ago since I was studying frontend programming at the Newton training school. In this framework I have worked on quite large projects such as a hospital system, 6 banking projects, an order control system, a chat socket. I have used it to create PWA with implementation of service workers. I have performed tasks such as migrating between versions, compatibility, refactoring, design and create from scratch.",
+      "react": "My beginnings with this framework were 4 years ago. I have studied it from Classes, Classes-Redux, to its most recent version with Hooks, with Hooks-Redux. I made a shift control system for a veterinarian, health systems (clinic management, billing, shifts, providers, portals), systems for hospitals, financial systems, vocational platforms and Sockets. I have performed tasks such as migrating between versions, compatibility, refactoring, design and create from scratch.",
+      "next": "My beginnings with this framework were 2 years ago. I have made a vocational system with Next and Strapi. Three eCommerce (one with strapi, one with Amplence and Commercetools, one with Next and Node in back)",
+      "vue": "My start with this framework was 2 years ago. I have studied it with composition api and options api. I made a socekt and other test systems.",
       "ionic": "My beginnings with this framework were 5 years ago. I have studied it in all its versions. I maked a store for Android and other test systems.",
-      "reactNative": "My beginnings with this framework are recent, 3 years ago. I maked a restaurant ranking system for Android with expo, other test systems and I have supported other developments",
+      "reactNative": "My beginnings with this framework are 3 years ago. Make restaurant ranking system for android with expo. Insurance system. Support in android health systems.",
       "node": "My beginnings with this framework were 5 years ago. In this framework I have developed sockets.io and some restful api including one with authentication by Google, Facebook and email, also manage profiles and JWT.",
+      "nest": "My beginnings with this framework were 6 months ago. In this framework I have developed sockets.io and some restful api including one with authentication by Google, Facebook and email, also manage profiles and JWT.",
       "flutter": "My beginnings in this framework are relatively recent and I did not had the pleasure of developing this technology yet, more than doing test projects.",
       "laravel": "My beginnings with this framework were 5 years ago. In this framework I have developed some restful api, one of them with email authentication and token management.",
       "slim": "My beginnings with this framework were 5 years ago when I was studying backend development at Newton school. In this framework I have developed some restful api.",
@@ -52,15 +54,16 @@
     "patrones": {
       "cerrarBoton": "Close",
       "titulo": "My history with this pattern",
-      "modular": "Used in Angular, Vue and React so that each page is an independent module also implementing leazy load.",
+      "modular": "Used in Angular, Vue, React and Nest to create independent modules. Also implementing leazy load in React and Angular.",
       "flux": "Used in React.",
-      "redux": "Used in React and Angular to manage toastr, spinners and data that must be seen at the same time on all screens.",
-      "factory": "Used in Angular in a case that depending on the type of user one type of sidebar or another was displayed. Also in models where depending on the input data it returned one model or another.",
-      "observer": "Used in Angular practically Angular uses it in all its calls to the backend and I have also used it to show modals on many systems.",
-      "singleton": "Used in Node and Flutter. I have used it mostly to instantiate databases or connections to the backend.",
-      "prototype": "Used in Angular to work with user models with different profiles.",
-      "decorator": "Used in Angular, Spring and Laravel.",
-      "strategy": "Used in Angular to change the search algorithm from binary to sequential depending if the backend document array was ordered or not."
+      "redux": "Used in React and Angular to have the data organized and available throughout the application.",
+      "factory": "Used in Angular and React, in a case where, depending on the type of user, one type of sidebar or another was displayed. Also in models where, depending on the input data, one model or another was returned.",
+      "observer": "Used in Angular for calling modals and Sockets.",
+      "singleton": "Used in Node, Flutter, Nest and for socket development in Angular, Vue, and React. I've mostly used it for database instantiation or backend connections.",
+      "decorator": "Used in Angular and Nest",
+      "strategy": "Used in Angular to change the search algorithm from binary to sequential depending on whether the backend document array was sorted or not.",
+      "adapter": "Used in React to create an abstraction layer in the HTTP Client. That allows not to depend on axios or fetch",
+      "facade": "Used to adapt libraries."
     },
     "otros": {
       "titulo": "Others",
